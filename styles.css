@@ -1,3 +1,5 @@
+/*This is called external styling and it is better than internal and inline styling */
+
 h1 {
     color: red;
     background-color: blue;
@@ -8,6 +10,7 @@ p {
     color: blue;
 }
 
+/*This styles anchor tag in my html */
 a {
     color: darkgreen;
     font-size: 50px;
